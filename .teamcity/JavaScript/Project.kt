@@ -19,8 +19,6 @@ object Project : Project({
 	
     buildType(JavaScript_03DeployToStaging)
     buildType(JavaScript_02Chrome)
-	buildType(JavaScript_2IE)
-    buildType(JavaScript_02Firefox)
     buildType(JavaScript_01FastTests)
 
     template(JavaScript_Template)
